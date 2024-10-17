@@ -1,0 +1,20 @@
+{
+  "name": "teste-de-automacao-api",
+  "version": "1.0.0",
+  "description": "Teste de automação para o processo seletivo do PLARD - Santander, especificamente o Desafio API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasajajpiccoli/teste-de-automacao-api.git"
+  },
+  "author": "Lucas HCX",
+  "license": "ISC",
+  "homepage": "https://github.com/lucasajajpiccoli/teste-de-automacao-api#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1"
+  }
+}
